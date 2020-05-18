@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Skill Articles</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="loading_with_dots">Loading...</string>
+    <string name="menu_search_title">Search</string>
+    <string name="article_search_placeholder">Search</string>
+
+    <!-- IDs for custom views -->
+    <string name="markdown_image_view">500</string>
+    <string name="markdown_code_view">2500</string>
+</resources>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tmurakami:dexopener:2.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a9db9a6a174cd41ce2f90c8e528f290/dexopener-2.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a9db9a6a174cd41ce2f90c8e528f290/dexopener-2.0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a9db9a6a174cd41ce2f90c8e528f290/dexopener-2.0.5/jars/libs/classloaderhelper.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a9db9a6a174cd41ce2f90c8e528f290/dexopener-2.0.5/jars/libs/repackaged.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tmurakami/dexopener/2.0.5/1b45c07398bf586263d159317244cd03218ea444/dexopener-2.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tmurakami/dexopener/2.0.5/4895ed9f43752ed9e9c1267f9d08e9da9a739dd2/dexopener-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
